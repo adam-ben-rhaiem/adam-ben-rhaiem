@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 
 🔬 **Passion**: Transforming ideas into AI-powered solutions that make a difference.  
-📚 **Focus Areas**: Machine Learning, Deep Learning, Natural Language Processing, and Generative AI.  
+📚 **Focus Areas**: Machine Learning, Deep Learning and Generative AI.  
 💡 **Goal**: To push the boundaries of AI applications and share knowledge to inspire others.  
 
 ---
