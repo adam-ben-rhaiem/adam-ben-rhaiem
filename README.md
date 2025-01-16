@@ -1,7 +1,9 @@
-                                            #  Hi,👋 I'm Adam Ben Rhaiem 
 
-                          **AI enthusiast on a journey to explore and innovate in the world of Artificial Intelligence.** 🚀 
+  <div align="center">
+  #  Hi,👋 I'm Adam Ben Rhaiem 
 
+ **AI enthusiast on a journey to explore and innovate in the world of Artificial Intelligence.** 🚀 
+</div>
 ---
 
 ## 🌟 About Me  
