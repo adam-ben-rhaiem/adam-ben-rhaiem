@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub Profile!  
+#  Hi,👋 I'm Adam Ben Rhaiem 
 
-Hi there! I'm [Your Name] – an AI enthusiast on a journey to explore and innovate in the world of Artificial Intelligence. 🚀  
+an AI enthusiast on a journey to explore and innovate in the world of Artificial Intelligence. 🚀  
 
 ---
 
