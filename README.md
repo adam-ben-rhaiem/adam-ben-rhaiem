@@ -6,6 +6,7 @@
  **AI enthusiast on a journey to explore and innovate in the world of Artificial Intelligence.** 🚀 
 </div>
 ---
+
 ## Connect with me:
 💼 [LinkedIn](www.linkedin.com/in/adam-ben-rhaiem)  
 📧 [Email](adam.benrhaiem@supcom.tn) 
