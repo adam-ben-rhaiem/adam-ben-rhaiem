@@ -43,19 +43,11 @@
 
 ## 🧠 Current Projects  
 
-- **[Project Name]**: [Brief description of the project, e.g., Building a sentiment analysis tool to understand social media trends.]  
-- **[Project Name]**: [Brief description, e.g., Developing an AI model to predict energy consumption patterns in households.]  
+- **Energy Consumption Simulation for Household Appliances**:  
+  I am building a generative AI model to simulate energy consumption scenarios for household appliances. Using open-source datasets like UK-DALE and REFIT, the model explores how factors such as climate, occupancy, and technology adoption (e.g., solar panels, electric vehicles) impact energy usage. The insights aim to help users optimize their energy consumption and make data-driven decisions.  
 
-Check out my repositories for more cool projects!  
-
----
-
-## ⚙️ Skills & Tools  
-
-- **Programming**: Python, R, JavaScript  
-- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
-- **Data**: SQL, Pandas, NumPy, Elasticsearch  
-- **Visualization**: Matplotlib, Seaborn, Power BI  
+- **Clinical Data ETL Pipeline**:  
+  At **Precisia Care SA**, I developed a complete ETL pipeline to clean and preprocess clinical data for the study of renal problems in ICU patients. The project involved integrating machine learning techniques to enable early detection of potential health risks based on the processed data.  
 
 ---
 
