@@ -6,8 +6,11 @@
  **AI enthusiast on a journey to explore and innovate in the world of Artificial Intelligence.** 🚀 
 </div>
 ---
+## Connect with me:
+💼 [LinkedIn](www.linkedin.com/in/adam-ben-rhaiem)  
+📧 [Email](adam.benrhaiem@supcom.tn) 
 
-## 🛠️ Languages and Tools  
+## Languages and Tools:
 
 <p align>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
@@ -39,23 +42,7 @@
 📚 **Focus Areas**: Machine Learning, Deep Learning and Generative AI.  
 💡 **Goal**: To push the boundaries of AI applications and share knowledge to inspire others.  
 
----
 
-## 🧠 Current Projects  
-
-- **Energy Consumption Simulation for Household Appliances**:  
-  I am building a generative AI model to simulate energy consumption scenarios for household appliances. Using open-source datasets like UK-DALE and REFIT, the model explores how factors such as climate, occupancy, and technology adoption (e.g., solar panels, electric vehicles) impact energy usage. The insights aim to help users optimize their energy consumption and make data-driven decisions.  
-
-- **Clinical Data ETL Pipeline**:  
-  At **Precisia Care SA**, I developed a complete ETL pipeline to clean and preprocess clinical data for the study of renal problems in ICU patients. The project involved integrating machine learning techniques to enable early detection of potential health risks based on the processed data.  
-
----
-
-## 🌍 Let's Connect  
-
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 [Email](mailto:your.email@example.com)  
-📝 [Blog/Portfolio](https://yourwebsite.com)  
 
 ---
 
