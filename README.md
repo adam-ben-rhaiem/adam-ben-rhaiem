@@ -18,9 +18,9 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
   
@@ -28,14 +28,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>  
 </p>
-
----
-## 🌟 About Me  
-
-🔬 **Passion**: Transforming ideas into AI-powered solutions that make a difference.  
-📚 **Focus Areas**: Machine Learning, Deep Learning and Generative AI.  
-💡 **Goal**: To push the boundaries of AI applications and share knowledge to inspire others.  
----
 
 🚀 "AI is not just a technology – it’s a new way of thinking." Let's create the future together! 🌟  
 
