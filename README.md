@@ -7,10 +7,6 @@
 </div>
 ---
 
-## Connect with me:
-💼 [LinkedIn](www.linkedin.com/in/adam-ben-rhaiem)  
-📧 [Email](adam.benrhaiem@supcom.tn) 
-
 ## Languages and Tools:
 
 <p align>
@@ -34,17 +30,11 @@
 </p>
 
 ---
-
-
-
 ## 🌟 About Me  
 
 🔬 **Passion**: Transforming ideas into AI-powered solutions that make a difference.  
 📚 **Focus Areas**: Machine Learning, Deep Learning and Generative AI.  
 💡 **Goal**: To push the boundaries of AI applications and share knowledge to inspire others.  
-
-
-
 ---
 
 🚀 "AI is not just a technology – it’s a new way of thinking." Let's create the future together! 🌟  
